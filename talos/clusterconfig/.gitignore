@@ -1,2 +1,5 @@
 kubernetes-talos-cloud-master1.yaml
 talosconfig
+kubernetes-talos-cloud-master-1.yaml
+kubernetes-talos-cloud-master-2.yaml
+kubernetes-talos-cloud-master-3.yaml
