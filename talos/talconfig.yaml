@@ -35,7 +35,7 @@ nodes:
         routes:
           - network: "0.0.0.0/0"
             gateway: "192.168.2.1"
-        mtu: 1450
+        mtu: 1500
         vip:
           ip: "192.168.2.110"
 
